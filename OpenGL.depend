@@ -1,0 +1,537 @@
+# depslib dependency file v1.0
+1597749732 source:d:\pinho\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Temporizador.h"
+
+1298986600 d:\pinho\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\basico2d\gl\freeglut_ext.h
+
+1584988812 d:\pinho\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1584988348 source:d:\pinho\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1597787603 source:d:\pinho\poligonos\exibepoligonos.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1298986600 d:\pinho\poligonos\gl\glut.h
+	"freeglut.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 d:\pinho\poligonos\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 d:\pinho\poligonos\gl\freeglut_ext.h
+
+1597783594 d:\pinho\poligonos\ponto.h
+	<iostream>
+
+1597787214 d:\pinho\poligonos\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1584988812 d:\pinho\poligonos\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1597787245 source:d:\pinho\poligonos\poligono.cpp
+	"Poligono.h"
+
+1597784052 source:d:\pinho\poligonos\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:d:\pinho\poligonos\temporizador.cpp
+	"Temporizador.h"
+
+1619654240 source:c:\users\avell\desktop\basico2d\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1619640776 c:\users\avell\desktop\basico2d\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1298986600 c:\users\avell\desktop\basico2d\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\avell\desktop\basico2d\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\avell\desktop\basico2d\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\avell\desktop\basico2d\gl\freeglut_ext.h
+
+1655065827 c:\users\avell\desktop\basico2d\ponto.h
+	<iostream>
+	<cmath>
+
+1623277524 source:c:\users\avell\desktop\basico2d\ponto.cpp
+	"Ponto.h"
+
+1584988348 source:c:\users\avell\desktop\basico2d\temporizador.cpp
+	"Temporizador.h"
+
+1584988812 c:\users\avell\desktop\basico2d\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1619658914 source:c:\users\avell\desktop\basico2d\programabasicoopengl.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	"Poligono.h"
+	"Temporizador.h"
+
+1623174656 source:c:\users\avell\desktop\basico2d\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1623174568 c:\users\avell\desktop\basico2d\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1554980436 source:c:\users\avell\desktop\basico2d\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1554949128 c:\users\avell\desktop\basico2d\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215465208 c:\users\avell\desktop\basico2d\soil\soil.h
+
+1215465208 source:c:\users\avell\desktop\basico2d\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\avell\desktop\basico2d\soil\image_dxt.h
+
+1215465208 source:c:\users\avell\desktop\basico2d\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\avell\desktop\basico2d\soil\image_helper.h
+
+1425995044 source:c:\users\avell\desktop\basico2d\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\avell\desktop\basico2d\soil\stb_image_aug.h
+	<stdio.h>
+
+1215465208 c:\users\avell\desktop\basico2d\soil\stbi_dds_aug.h
+
+1215465208 c:\users\avell\desktop\basico2d\soil\stbi_dds_aug_c.h
+
+1425993828 source:c:\users\avell\desktop\basico2d\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1655066285 source:c:\users\avell\desktop\basico2d\programabasico3d.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+	"Ponto.h"
+
+1655065024 source:c:\users\avell\desktop\basico2d\textura.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	"gl\glut.h"
+	<sys/time.h>
+	<GLUT/glut.h>
+	"SOIL/SOIL.h"
+	"TextureClass.h"
+	"ListaDeCoresRGB.h"
+
+1559011704 c:\users\avell\desktop\basico2d\textureclass.h
+	"ImageClass.h"
+
+1559012174 source:c:\users\avell\desktop\basico2d\textureclass.cpp
+	"TextureClass.h"
+
+1554980436 source:c:\users\avell\desktop\texturas\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1298986600 c:\users\avell\desktop\texturas\gl\glut.h
+	"freeglut.h"
+
+1298986600 c:\users\avell\desktop\texturas\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1298986600 c:\users\avell\desktop\texturas\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1298986600 c:\users\avell\desktop\texturas\gl\freeglut_ext.h
+
+1554949128 c:\users\avell\desktop\texturas\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1215465208 c:\users\avell\desktop\texturas\soil\soil.h
+
+1623174656 source:c:\users\avell\desktop\texturas\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1623174568 c:\users\avell\desktop\texturas\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1619654240 source:c:\users\avell\desktop\texturas\poligono.cpp
+	<iostream>
+	<fstream>
+	"Poligono.h"
+
+1619640776 c:\users\avell\desktop\texturas\poligono.h
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Ponto.h"
+	<vector>
+
+1648677028 c:\users\avell\desktop\texturas\ponto.h
+	<iostream>
+	<cmath>
+
+1648675054 source:c:\users\avell\desktop\texturas\ponto.cpp
+	"Ponto.h"
+
+1215465208 source:c:\users\avell\desktop\texturas\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1215465208 c:\users\avell\desktop\texturas\soil\image_dxt.h
+
+1215465208 source:c:\users\avell\desktop\texturas\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1215465208 c:\users\avell\desktop\texturas\soil\image_helper.h
+
+1425993828 source:c:\users\avell\desktop\texturas\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1215465208 c:\users\avell\desktop\texturas\soil\stb_image_aug.h
+	<stdio.h>
+
+1425995044 source:c:\users\avell\desktop\texturas\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1215465208 c:\users\avell\desktop\texturas\soil\stbi_dds_aug.h
+
+1215465208 c:\users\avell\desktop\texturas\soil\stbi_dds_aug_c.h
+
+1584988348 source:c:\users\avell\desktop\texturas\temporizador.cpp
+	"Temporizador.h"
+
+1584988812 c:\users\avell\desktop\texturas\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1559012174 source:c:\users\avell\desktop\texturas\textureclass.cpp
+	"TextureClass.h"
+
+1559011704 c:\users\avell\desktop\texturas\textureclass.h
+	"ImageClass.h"
+
+1668173588 source:c:\users\10033421\desktop\texturas\imageclass.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	"ImageClass.h"
+
+1668173589 c:\users\10033421\desktop\texturas\gl\glut.h
+	"freeglut.h"
+
+1668173589 c:\users\10033421\desktop\texturas\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1668173589 c:\users\10033421\desktop\texturas\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1668173589 c:\users\10033421\desktop\texturas\gl\freeglut_ext.h
+
+1668173588 c:\users\10033421\desktop\texturas\imageclass.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"gl\glut.h"
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"SOIL/SOIL.h"
+
+1668173589 c:\users\10033421\desktop\texturas\soil\soil.h
+
+1668173589 source:c:\users\10033421\desktop\texturas\listadecoresrgb.cpp
+	"ListaDeCoresRGB.h"
+
+1668173589 c:\users\10033421\desktop\texturas\listadecoresrgb.h
+	<iostream>
+	<cmath>
+	<ctime>
+	<fstream>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+
+1668173589 source:c:\users\10033421\desktop\texturas\ponto.cpp
+	"Ponto.h"
+
+1668173589 c:\users\10033421\desktop\texturas\ponto.h
+	<iostream>
+	<cmath>
+
+1668173589 source:c:\users\10033421\desktop\texturas\soil\image_dxt.cpp
+	"image_DXT.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1668173589 c:\users\10033421\desktop\texturas\soil\image_dxt.h
+
+1668173589 source:c:\users\10033421\desktop\texturas\soil\image_helper.cpp
+	"image_helper.h"
+	<stdlib.h>
+	<math.h>
+
+1668173589 c:\users\10033421\desktop\texturas\soil\image_helper.h
+
+1668173589 source:c:\users\10033421\desktop\texturas\soil\soil.cpp
+	<windows.h>
+	<wingdi.h>
+	<GL/gl.h>
+	<OpenGL/gl.h>
+	<Carbon/Carbon.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	"SOIL.h"
+	"stb_image_aug.h"
+	"image_helper.h"
+	"image_DXT.h"
+	<stdlib.h>
+	<string.h>
+	<iostream>
+
+1668173589 c:\users\10033421\desktop\texturas\soil\stb_image_aug.h
+	<stdio.h>
+
+1668173589 source:c:\users\10033421\desktop\texturas\soil\stb_image_aug.cpp
+	"stb_image_aug.h"
+	<math.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	<assert.h>
+	<stdarg.h>
+	"stbi_DDS_aug.h"
+	"stbi_DDS_aug_c.h"
+
+1668173589 c:\users\10033421\desktop\texturas\soil\stbi_dds_aug.h
+
+1668173589 c:\users\10033421\desktop\texturas\soil\stbi_dds_aug_c.h
+
+1668173589 source:c:\users\10033421\desktop\texturas\temporizador.cpp
+	"Temporizador.h"
+
+1668173588 c:\users\10033421\desktop\texturas\temporizador.h
+	<iostream>
+	<windows.h>
+	<sys/time.h>
+
+1668173589 source:c:\users\10033421\desktop\texturas\textura.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<windows.h>
+	<glut.h>
+	<sys/time.h>
+	<GLUT/glut.h>
+	<glut.h>
+	"Temporizador.h"
+	"ListaDeCoresRGB.h"
+	"Ponto.h"
+	"SOIL/SOIL.h"
+	"TextureClass.h"
+	"ListaDeCoresRGB.h"
+	"Ponto.h"
+
+1668173589 c:\users\10033421\desktop\texturas\textureclass.h
+	"ImageClass.h"
+
+1668173589 source:c:\users\10033421\desktop\texturas\textureclass.cpp
+	"TextureClass.h"
+
